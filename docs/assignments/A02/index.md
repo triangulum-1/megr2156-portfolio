@@ -7,7 +7,7 @@ The objective of this assignment is to create a truss that can hold when a force
 ## Step 2
 ![Work for Step 2 Part 1](Scanned_20260902-1636-01.jpg)
 ![Work for Step 2 Part 2](Scanned_20260902-1636-02.jpg)
-
+I designed a simple planar truss using the required geometric constraints of a=0.4m and b=0.3m, with point A acting as a pin support and point B acting as a roller support. I chose a warren truss geometry with a diagonal member because this configuration has been proven to be effective in real world applications before me. I calculated the length of each truss member and used free body diagrams to calculate the forces on said trusses.
 
 ### Part B
 Largest internal force:
@@ -26,6 +26,8 @@ Unknown:
 
 ![Work for Part B](ao2p21.jpg)
 
+I used the largest internal force found from the truss analysis to determine the minimum cross-sectional area required for the members. I applied the A500 steel yield strength and the required safety factor of 3.5 to remain below the allowable stress. After determining the required area, I calculated the approximate weight of the truss.
+
 ## Step 3
 ### Unknowns
 - allowable shear stress
@@ -41,6 +43,12 @@ Unknown:
 - total length of truss is 4.2 m
 
 ![Work for Step 3](ao2p31.jpg)
+
+I designed the connecting pins based on the largest force acting on a pin and the requirement that the connection use a single-shear configuration. I used the specified hardened tool steel yield shear strength of 170 ksi and a safety factor of 4 to calculate the minimum required pin area and corresponding diameter. I then used the pin dimensions and the specified density of 0.278 lb/in^3 to estimate the combined weight of all the pins.
+
+## CAD Modeling
+
+I created a CAD model of the truss using the dimensions and cross-sectional areas determined from the analytical calculations. The truss members were modeled as one part, while the pins were modeled as a cylindrical component with the calculated dimensions and the member cross-sectional area. I then used Creo's material properties to model the appropriate steel and recieve ata from the modeling software.
 
 ## 2157 Only Section
 ### Part 1
