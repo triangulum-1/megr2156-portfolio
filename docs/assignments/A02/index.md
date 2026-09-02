@@ -5,6 +5,9 @@
 
 # Analyze
 ## Step 2
+![Work for Step 2 Part 1](Scanned_20260902-1636-01.jpg)
+![Work for Step 2 Part 2](Scanned_20260902-1636-02.jpg)
+
 
 ### Part B
 Largest internal force:
@@ -21,6 +24,8 @@ Unknown:
 - Minimum required cross-sectional area: A_min = ?
 - Approximate weight of the truss: W=?
 
+![Work for Part B](ao2p21.jpg)
+
 ## Step 3
 ### Unknowns
 - allowable shear stress
@@ -35,7 +40,7 @@ Unknown:
 - pin density = .278 lb/in^3
 - total length of truss is 4.2 m
 
-![Work for Part 3](ao2p31.jpg)
+![Work for Step 3](ao2p31.jpg)
 
 ## 2157 Only Section
 ### Part 1
