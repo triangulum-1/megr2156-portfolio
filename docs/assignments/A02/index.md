@@ -34,7 +34,8 @@ Unknown:
 - pin connection = single shear
 - pin density = .278 lb/in^3
 - total length of truss is 4.2 m
-![Work for Part 3](ao2p3.pdf)
+
+![Work for Part 3](ao2p31.jpg)
 
 ## 2157 Only Section
 ### Part 1
