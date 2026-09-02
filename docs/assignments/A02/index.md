@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 # Objective
-
+The objective of this assignment is to create a truss that can hold when a force of 20 kN is being applied to two different joints and is also held by a roller and a pin.
 
 # Analyze
 ## Step 2
@@ -65,4 +65,4 @@ Unknown:
 For this assignment, I designed a lightweight planar truss using ASTM A500 Grade B structural steel. The truss was designed around the required dimensions a=0.4, b=0.3, and an applied load of P=25 at joints C and D. I selected a simple truss consisting of five joints and seven members in the design of a Warren truss so that the structure remains relatively simple for CAD modeling and analysis. The design consists of a lower brace and upper member that are connected by braces creating three triangle shapes between them.
 
 # Communicate
-
+I learned how to calculate the shear forces acting on a pin, how to calculate with a safety factor, and calculate a necessary cross section.
