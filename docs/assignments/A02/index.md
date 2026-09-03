@@ -50,6 +50,16 @@ I designed the connecting pins based on the largest force acting on a pin and th
 
 I created a CAD model of the truss using the dimensions and cross-sectional areas determined from the analytical calculations. The truss members were modeled as one part, while the pins were modeled as a cylindrical component with the calculated dimensions and the member cross-sectional area. I then used Creo's material properties to model the appropriate steel and recieve ata from the modeling software.
 
+### Pin CAD File 
+https://a360.co/4cq0drm
+### Truss CAD File
+https://a360.co/4zUKFWF
+### Member CAD File 
+https://a360.co/4x7ihOx
+
+![CAD Weight](Screenshot 2026-09-03 015157.png)
+![CAD Safety Factor Screencap](Screenshot 2026-09-03 015533.png)
+
 ## 2157 Only Section
 ### Part 1
 - Expect buckling first as A500 Steel is a ductile material.
@@ -60,7 +70,7 @@ I created a CAD model of the truss using the dimensions and cross-sectional area
 - Shear failure, with only one shear plane. The lack of axial force makes it so that the only modes of failure possible are bending and shear, and hardened carbon  steel is not very likely to bend before breaking. A way to ease the stress on the pin would be to use a clevis and pin or some form of fastener on the other side to create a second shear plane.
 
 ##
-- This work for the 2157 only section took me about two hours total, and the calculations for the rest of the assignment took about 4 hours. The CAD Modeling took
+- This work for the 2157 only section took me about two hours total, and the calculations for the rest of the assignment took about 4 hours. The CAD Modeling took about 2-3 hours including downloading and linking files.
 
 ## Sources:
 - https://pandapipe.com/blog/a500-steel-properties/
@@ -73,4 +83,4 @@ I created a CAD model of the truss using the dimensions and cross-sectional area
 For this assignment, I designed a lightweight planar truss using ASTM A500 Grade B structural steel. The truss was designed around the required dimensions a=0.4, b=0.3, and an applied load of P=25 at joints C and D. I selected a simple truss consisting of five joints and seven members in the design of a Warren truss so that the structure remains relatively simple for CAD modeling and analysis. The design consists of a lower brace and upper member that are connected by braces creating three triangle shapes between them.
 
 # Communicate
-I learned how to calculate the shear forces acting on a pin, how to calculate with a safety factor, and calculate a necessary cross section.
+During the process of this project, I made several mistakes, including but not limited to: an original less efficient design with a square and a diagonal brace, mathematical errors, some CAD errors and several documentation lessons learned. My original design was flawed in the fact that it would take up more space and still be less strong than my current design. I realized once I had my pin calculations done that my mathematical stress calculations were incorrect as the pin and cross section figures made no sense. I spent several attempts in Fusion learning how to constraint and configure stress analysis as I had never done that in Fusion before.I learned how to calculate the shear forces acting on a pin, how to calculate with a safety factor, and calculate a necessary cross section.
