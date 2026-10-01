@@ -5,20 +5,7 @@ Build a parametric 3D CAD model of the bracket and generate a fully dimensioned 
 
 ## Analyze
 #### Parametric Sheet List
-Name,Unit,Expression,Value,Comments,Favorite
-la,,( 2 in ) / in,2,,false
-lb,,( 1.5 in ) / in,1.5,,false
-tb,,( 0.25 in ) / in,0.25,,false
-lc,,( 3 in ) / in,3,,false
-bc,,( 1 in ) / in,1,,false
-ld,,( 1 in ) / in,1,,false
-dd,,( 1 in ) / in,1,,false
-le,,( 0.5 in ) / in,0.5,,false
-de,,( 1 in ) / in,1,,false
-sigma,,10000,10000,,false
-force,,( 300 lbforce ) / lbforce,300,,false
-modulus,,10000000,1e+07,,false
-maxdef,,( 0.005 in ) / in,0.005,,false
+![Work for Step 2 Part 1](paramee.jpg)
 ![Work for Step 2 Part 1](parameters6.jpg)
 
 #### CAD Files
