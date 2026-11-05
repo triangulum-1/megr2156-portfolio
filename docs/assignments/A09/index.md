@@ -23,4 +23,4 @@ Sintered bronze was chosen over rolling-element ball bearings because the operat
 Aluminum will be used for the frame as it has high strength to weight ratio.
 
 ## Communicate
-This project took about four hours total. I also initially missed the conversion between MPa and PSI.
+This project took about four hours total. I also initially missed the conversion between MPa and PSI. Applying failure calculations ensures robust shaft dimensions that safeguards components against yielding under torque.
