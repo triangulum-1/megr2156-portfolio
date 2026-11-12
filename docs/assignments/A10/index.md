@@ -13,28 +13,14 @@
     2 kN maximum tensile load and the required factor of safety.
 </p>
 
-<figure>
-    <img src="images/Scanned_20261110-1916-01.jpg"
-         alt="Leadscrew diameter calculations"
-         width="650">
-    <figcaption>
-        Figure 1: Calculations for the minimum required leadscrew diameter.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
 <p>
     Next, I calculated the required rotational speed range to achieve
     the specified crosshead linear speed.
 </p>
 
-<figure>
-    <img src="images/Scanned_20261110-1916-02.jpg"
-         alt="Leadscrew rotational speed calculations"
-         width="650">
-    <figcaption>
-        Figure 2: Calculations for the required leadscrew rotational speed.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
 <p>
     After completing the calculations, I selected the leadscrew
@@ -42,14 +28,7 @@
     conditions. Both leadscrews will use identical components.
 </p>
 
-<figure>
-    <img src="images/Scanned_20261110-1916-03.jpg"
-         alt="Selected leadscrew specifications"
-         width="650">
-    <figcaption>
-        Figure 3: Selected leadscrew and component specifications.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
 <h3>2. Nut and Flange Selection (Liam DiProfio)</h3>
 
@@ -60,32 +39,11 @@
     thread strength and determine a suitable nut and flange.
 </p>
 
-<figure>
-    <img src="images/Scanned_20261110-1916-04.jpg"
-         alt="Nut and flange thread calculations"
-         width="650">
-    <figcaption>
-        Figure 4: Calculations used to verify the nut's internal thread strength.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
-<figure>
-    <img src="images/Screenshot 2026-11-10 191331.png"
-         alt="Selected flange specifications"
-         width="650">
-    <figcaption>
-        Figure 5: Selected flange and its mounting dimensions.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
-<figure>
-    <img src="images/Screenshot 2026-11-10 182428.png"
-         alt="Flange mounting bolt specifications"
-         width="650">
-    <figcaption>
-        Figure 6: Selected mounting bolt specifications for the flange assembly.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
 <h3>3. Crosshead Design (Jordi Melendez Salgado)</h3>
 
@@ -97,14 +55,7 @@
     the required factor of safety.
 </p>
 
-<figure>
-    <img src="images/IMG_9911.jpeg"
-         alt="Crosshead beam stress calculations"
-         width="650">
-    <figcaption>
-        Figure 7: Crosshead beam stress and strength calculations.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
 <p>
     I then performed a deflection analysis to verify that the
@@ -113,13 +64,7 @@
     crosshead sketch and its dimensions.
 </p>
 
-<figure>
-    <img src="images/IMG_9912.jpeg"
-         alt="Crosshead deflection calculations and design sketch"
-         width="650">
-    <figcaption>
-        Figure 8: Crosshead deflection calculations and preliminary design sketch.
-    </figcaption>
+![Work for Step 2 Part 1](input.jpg)
 
     <h3>4. Tabulating Costs (Jordi Melendez Salgado)</h3>
 
@@ -177,19 +122,7 @@
     The assembly combines the designed crosshead with the selected
     leadscrews, flange nuts, and structural framing.
 </p>
-<figure>
-    <img src="images/a10.ss.1.png"
-         alt="Completed SolidWorks tensile tester assembly"
-         width="650">
-    <figcaption>
-        Figure 9: Completed parametric SolidWorks assembly of the tensile tester.
-    </figcaption>
-    <p>
-    <a href="files/a10.SLDASM" download>
-        Download SolidWorks Assembly
-    </a>
-</p>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 <h3>6. Lessons Learned (Liam DiProfio)</h3>
 <p>
     Throughout this project, I learned how to apply mechanical design
@@ -214,20 +147,10 @@
     throughout the crosshead.
 </p>
 
-<figure>
-    <img src="images/a10.ss2.png" alt="Initial crosshead von Mises stress results" width="650">
-    <figcaption>Figure 10: Initial FEA stress results. Maximum stress: 1.177 × 10⁶ Pa.</figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
-<figure>
-    <img src="images/a10.ss3.png" alt="Initial crosshead displacement results" width="650">
-    <figcaption>Figure 11: Initial FEA displacement results. Maximum displacement: 6.641 × 10⁻⁵ m.</figcaption>
-</figure>
-
-<figure>
-    <img src="images/a10.ss4.png" alt="Initial crosshead strain results" width="650">
-    <figcaption>Figure 12: Initial FEA strain results. Maximum strain: 4.685 × 10⁻⁶.</figcaption>
-</figure>
+![Work for Step 2 Part 1](IMG_9911.jpeg)
+![Work for Step 2 Part 1](IMG_9912.jpeg)
 
 
 <p>
@@ -245,20 +168,11 @@
     how the mesh affected the crosshead results.
 </p>
 
-<figure>
-    <img src="images/a10.ss5.png" alt="Second mesh test stress results" width="650">
-    <figcaption>Figure 13: Second test von Mises stress. Maximum stress: 1.409 MPa.</figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
-<figure>
-    <img src="images/a10.ss6.png" alt="Second mesh test displacement results" width="650">
-    <figcaption>Figure 14: Second test displacement. Maximum displacement: 6.653 × 10⁻⁵ m.</figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
-<figure>
-    <img src="images/a10.ss7.png" alt="Second mesh test strain results" width="650">
-    <figcaption>Figure 15: Second test strain. Maximum strain: 5.543 × 10⁻⁶.</figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
 <p>
     Using the A36 steel yield strength of 250 MPa, the calculated
@@ -271,12 +185,5 @@
     including its overall dimensions and mounting features.
 </p>
 
-<figure>
-    <img src="images/a10.ss8.png"
-         alt="Final crosshead engineering drawing"
-         width="650">
-    <figcaption>
-        Figure 16: Final dimensioned crosshead engineering drawing.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](input.jpg)
 
