@@ -125,7 +125,7 @@ Completed SolidWorks assembly of the tensile tester
 Figure 9: Completed parametric SolidWorks assembly of the tensile tester.
 
 CAD Files
-   <a href="files/a.10.zip" download>
+   <a href="a.10.zip" download>
     Download Complete SolidWorks Assembly
 
 Lessons Learned (Liam DiProfio)
