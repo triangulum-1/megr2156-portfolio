@@ -36,11 +36,11 @@ McMaster-Carr listing for the selected Precision Acme lead screw, 98940A625
 
 After selecting the leadscrews and flange assembly, I moved on to designing the crosshead. I performed a beam stress analysis to determine the required dimensions and material needed to safely withstand the applied 2 kN tensile load while maintaining the required factor of safety.
 
-![Work for Step 2 Part 1](IMG_9911.jpg)
+![Work for Step 2 Part 1](IMG_9911.jpeg)
 
 I then performed a deflection analysis to verify that the crosshead would remain within the maximum allowable deflection of 0.1 mm. The following image also includes the preliminary crosshead sketch and its dimensions.
 
-![Work for Step 2 Part 1](IMG_9912.jpg)
+![Work for Step 2 Part 1](IMG_9912.jpeg)
 
 ## Crosshead Finite Element Analysis (Jordi Melendez Salgado)
 
