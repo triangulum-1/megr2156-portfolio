@@ -41,9 +41,9 @@
 
 ![Work for Step 2 Part 1](Scanned_20261110-1916-04.jpg)
 
-![Work for Step 2 Part 1](Screenshot 2026-11-10 191331.jpg)
+![Work for Step 2 Part 1](mcm1.png)
 
-![Work for Step 2 Part 1](Screenshot 2026-11-10 182428.jpg)
+![Work for Step 2 Part 1](mcm2.jpg)
 
 <h3>3. Crosshead Design (Jordi Melendez Salgado)</h3>
 
