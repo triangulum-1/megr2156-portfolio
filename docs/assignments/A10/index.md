@@ -123,7 +123,8 @@
     leadscrews, flange nuts, and structural framing.
 </p>
 ![Work for Step 2 Part 1](a10.ss.1.jpg)
-   <a href="files/a.10.zip" download>
+
+   <a href="a.10.zip" download>
     Download Complete SolidWorks Assembly
 <h3>6. Lessons Learned (Liam DiProfio)</h3>
 <p>
