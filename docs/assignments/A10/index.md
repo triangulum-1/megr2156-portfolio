@@ -55,7 +55,7 @@
     the required factor of safety.
 </p>
 
-![Work for Step 2 Part 1](IMG_9911.jpg)
+![Work for Step 2 Part 1](IMG_9911.jpeg)
 
 <p>
     I then performed a deflection analysis to verify that the
@@ -64,7 +64,7 @@
     crosshead sketch and its dimensions.
 </p>
 
-![Work for Step 2 Part 1](IMG_9912.jpg)
+![Work for Step 2 Part 1](IMG_9912.jpeg)
 
     <h3>4. Tabulating Costs (Jordi Melendez Salgado)</h3>
 
