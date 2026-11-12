@@ -41,7 +41,7 @@
 
 ![Work for Step 2 Part 1](Scanned_20261110-1916-04.jpg)
 
-![Work for Step 2 Part 1](mcm1.png)
+![Work for Step 2 Part 1](mcm1.jpg)
 
 ![Work for Step 2 Part 1](mcm2.jpg)
 
