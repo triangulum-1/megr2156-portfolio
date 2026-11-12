@@ -122,19 +122,9 @@
     The assembly combines the designed crosshead with the selected
     leadscrews, flange nuts, and structural framing.
 </p>
-<figure>
-    <img src="images/a10.ss.1.png"
-         alt="Completed SolidWorks tensile tester assembly"
-         width="650">
-    <figcaption>
-        Figure 9: Completed parametric SolidWorks assembly of the tensile tester.
-    </figcaption>
-    <p>
-    <a href="files/a10.SLDASM" download>
-        Download SolidWorks Assembly
-    </a>
-</p>
-</figure>
+![Work for Step 2 Part 1](a10.ss.1.jpg)
+   <a href="files/a.10.zip" download>
+    Download Complete SolidWorks Assembly
 <h3>6. Lessons Learned (Liam DiProfio)</h3>
 <p>
     Throughout this project, I learned how to apply mechanical design
