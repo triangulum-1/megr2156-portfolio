@@ -1,103 +1,281 @@
 # A10 – Lead Screw Translating System
 
-## Objective
-Design a lead-screw-driven tensile tester capable of applying a maximum tensile load of 2 kN while maintaining the required factor of safety and a maximum crosshead deflection of 0.1 mm. The design includes lead screws, flange nuts, a crosshead, structural framing, and a complete parametric SolidWorks assembly.
+<section id="assignment10" class="page">
+            <h2>Assignment 10</h2>
+            <div class="section-box">
+               
+<h3>1. Leadscrew Design (Liam DiProfio)</h3>
 
-## Analyze
-Leadscrew Design (Liam DiProfio)
-!Minimum leadscrew diameter calculations
+<p>
+    To begin designing the tensile tester, I performed the necessary
+    calculations to determine the minimum leadscrew diameter and
+    required rotational speed. The calculations account for the
+    2 kN maximum tensile load and the required factor of safety.
+</p>
 
-Figure 1: Calculations for the minimum required leadscrew diameter.
+<figure>
+    <img src="images/Scanned_20261110-1916-01.jpg"
+         alt="Leadscrew diameter calculations"
+         width="650">
+    <figcaption>
+        Figure 1: Calculations for the minimum required leadscrew diameter.
+    </figcaption>
+</figure>
 
-!Leadscrew rotational speed calculations
+<p>
+    Next, I calculated the required rotational speed range to achieve
+    the specified crosshead linear speed.
+</p>
 
-Figure 2: Calculations for the required leadscrew rotational speed.
+<figure>
+    <img src="images/Scanned_20261110-1916-02.jpg"
+         alt="Leadscrew rotational speed calculations"
+         width="650">
+    <figcaption>
+        Figure 2: Calculations for the required leadscrew rotational speed.
+    </figcaption>
+</figure>
 
-Nut and Flange Selection (Liam DiProfio)
-!Nut and flange thread calculations
+<p>
+    After completing the calculations, I selected the leadscrew
+    specifications based on the required loading and operating
+    conditions. Both leadscrews will use identical components.
+</p>
 
-Figure 3: Calculations used to verify the nut's internal thread strength.
+<figure>
+    <img src="images/Scanned_20261110-1916-03.jpg"
+         alt="Selected leadscrew specifications"
+         width="650">
+    <figcaption>
+        Figure 3: Selected leadscrew and component specifications.
+    </figcaption>
+</figure>
 
-!Selected flange specifications
+<h3>2. Nut and Flange Selection (Liam DiProfio)</h3>
 
-Figure 4: Selected flange and its mounting dimensions.
+<p>
+    After selecting the leadscrews, I analyzed the internal threads
+    of the nut to verify that they could safely support the applied
+    load. The following calculations were used to evaluate the
+    thread strength and determine a suitable nut and flange.
+</p>
 
-!Flange mounting bolt specifications
+<figure>
+    <img src="images/Scanned_20261110-1916-04.jpg"
+         alt="Nut and flange thread calculations"
+         width="650">
+    <figcaption>
+        Figure 4: Calculations used to verify the nut's internal thread strength.
+    </figcaption>
+</figure>
 
-Figure 5: Selected mounting bolt specifications.
+<figure>
+    <img src="images/Screenshot 2026-11-10 191331.png"
+         alt="Selected flange specifications"
+         width="650">
+    <figcaption>
+        Figure 5: Selected flange and its mounting dimensions.
+    </figcaption>
+</figure>
 
-Crosshead Design (Jordi Melendez Salgado)
-!Crosshead beam stress calculations
+<figure>
+    <img src="images/Screenshot 2026-11-10 182428.png"
+         alt="Flange mounting bolt specifications"
+         width="650">
+    <figcaption>
+        Figure 6: Selected mounting bolt specifications for the flange assembly.
+    </figcaption>
+</figure>
 
-Figure 6: Crosshead beam stress and strength calculations.
+<h3>3. Crosshead Design (Jordi Melendez Salgado)</h3>
 
-!Crosshead deflection calculations and design sketch
+<p>
+    After selecting the leadscrews and flange assembly, I moved on
+    to designing the crosshead. I performed a beam stress analysis
+    to determine the required dimensions and material needed to
+    safely withstand the applied 2 kN tensile load while maintaining
+    the required factor of safety.
+</p>
 
-Figure 7: Crosshead deflection calculations and preliminary design sketch.
+<figure>
+    <img src="images/IMG_9911.jpeg"
+         alt="Crosshead beam stress calculations"
+         width="650">
+    <figcaption>
+        Figure 7: Crosshead beam stress and strength calculations.
+    </figcaption>
+</figure>
 
-Component Cost Analysis (Jordi Melendez Salgado)
+<p>
+    I then performed a deflection analysis to verify that the
+    crosshead would remain within the maximum allowable deflection
+    of 0.1 mm. The following image also includes the preliminary
+    crosshead sketch and its dimensions.
+</p>
 
-Item Number	Qty.	Component	Cost/Item	Total
-97790A110	2	Precision Acme Flange Nut	$178.60	$357.20
-98940A625	2	4140 Steel Precision Acme Leadscrew	$52.97	$105.94
-40-4040	2	Metric T-Slot Framing (3 m)	$107.33	$214.66
-Total Cost		$677.80
-Purchase Links:
+<figure>
+    <img src="images/IMG_9912.jpeg"
+         alt="Crosshead deflection calculations and design sketch"
+         width="650">
+    <figcaption>
+        Figure 8: Crosshead deflection calculations and preliminary design sketch.
+    </figcaption>
 
-McMaster-Carr – Flange Nut
-McMaster-Carr – Leadscrew
-Grainger – Metric T-Slot Framing
-## Decide
-Parametric SolidWorks Assembly (Jordi Melendez Salgado)
-!Completed SolidWorks tensile tester assembly
+    <h3>4. Tabulating Costs (Jordi Melendez Salgado)</h3>
 
-Figure 8: Completed parametric SolidWorks assembly of the tensile tester.
+<p>
+    The following table summarizes the purchased components required
+    for the tensile tester, including their quantities and costs.
+</p>
 
-Download SolidWorks Assembly
+<table>
+    <thead>
+        <tr>
+            <th>Item Number</th>
+            <th>Quantity</th>
+            <th>Name</th>
+            <th>Cost/Item</th>
+            <th>Cost</th>
+            <th>Purchase Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>97790A110</td>
+            <td>2</td>
+            <td>Precision Acme Flange Nut</td>
+            <td>$178.60</td>
+            <td>$357.20</td>
+            <td><a href="https://www.mcmaster.com/97790A110/" target="_blank">McMaster-Carr</a></td>
+        </tr>
+        <tr>
+            <td>98940A625</td>
+            <td>2</td>
+            <td>4140 Steel Precision Acme Leadscrew</td>
+            <td>$52.97</td>
+            <td>$105.94</td>
+            <td><a href="https://www.mcmaster.com/98940A625/" target="_blank">McMaster-Carr</a></td>
+        </tr>
+        <tr>
+            <td>40-4040</td>
+            <td>2</td>
+            <td>Metric T-Slot Framing (3 m)</td>
+            <td>$107.33</td>
+            <td>$214.66</td>
+            <td><a href="https://www.grainger.com/category/material-handling/structural-framing-systems/t-slot-framing-systems/profiles-for-t-slot-framing/metric-profiles-for-t-slot-framing" target="_blank">Grainger</a></td>
+        </tr>
+        <tr>
+            <td colspan="4">Total Cost</td>
+            <td>$677.80</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+                <h3>5. Parametric Modeling (Jordi Melendez Salgado)</h3>
+<p>
+    Below is the completed SolidWorks assembly of the tensile tester.
+    The assembly combines the designed crosshead with the selected
+    leadscrews, flange nuts, and structural framing.
+</p>
+<figure>
+    <img src="images/a10.ss.1.png"
+         alt="Completed SolidWorks tensile tester assembly"
+         width="650">
+    <figcaption>
+        Figure 9: Completed parametric SolidWorks assembly of the tensile tester.
+    </figcaption>
+    <p>
+    <a href="files/a10.SLDASM" download>
+        Download SolidWorks Assembly
+    </a>
+</p>
+</figure>
+<h3>6. Lessons Learned (Liam DiProfio)</h3>
+<p>
+    Throughout this project, I learned how to apply mechanical design
+    principles to develop a lead-screw-driven tensile tester. One of
+    the most important lessons was understanding how rotational torque
+    is converted into linear force through a lead screw. I also gained
+    experience selecting components based on strength, safety factors,
+    and dimensional requirements while considering crosshead deflection.
+</p>
+<p>
+    This project took approximately 15 hours of design work, including
+    calculations, component selection, and SolidWorks modeling.
+</p>
 
-Crosshead Finite Element Analysis (Jordi Melendez Salgado)
-The crosshead was assigned A36 structural steel with an approximate yield strength of 250 MPa. An initial SolidWorks simulation was performed to evaluate the von Mises stress, displacement, and strain under the applied loading conditions.
 
-!Initial crosshead von Mises stress results
+    <h3>7. Crosshead Finite Element Analysis (Jordi Melendez Salgado)</h3>
 
-Figure 9: Initial FEA stress results. Maximum stress: 1.177 × 10⁶ Pa.
+<p>
+    I performed an initial SolidWorks simulation to evaluate the
+    crosshead under the applied loading conditions. The following
+    results show the von Mises stress, displacement, and strain
+    throughout the crosshead.
+</p>
 
-!Initial crosshead displacement results
+<figure>
+    <img src="images/a10.ss2.png" alt="Initial crosshead von Mises stress results" width="650">
+    <figcaption>Figure 10: Initial FEA stress results. Maximum stress: 1.177 × 10⁶ Pa.</figcaption>
+</figure>
 
-Figure 10: Initial FEA displacement results. Maximum displacement: 6.641 × 10⁻⁵ m.
+<figure>
+    <img src="images/a10.ss3.png" alt="Initial crosshead displacement results" width="650">
+    <figcaption>Figure 11: Initial FEA displacement results. Maximum displacement: 6.641 × 10⁻⁵ m.</figcaption>
+</figure>
 
-!Initial crosshead strain results
+<figure>
+    <img src="images/a10.ss4.png" alt="Initial crosshead strain results" width="650">
+    <figcaption>Figure 12: Initial FEA strain results. Maximum strain: 4.685 × 10⁻⁶.</figcaption>
+</figure>
 
-Figure 11: Initial FEA strain results. Maximum strain: 4.685 × 10⁻⁶.
 
-Using the maximum von Mises stress of 1.177 MPa and the A36 steel yield strength of 250 MPa, the calculated factor of safety was approximately 212.4.
+<p>
+    The crosshead was assigned A36 structural steel, which has a
+    yield strength of approximately 250 MPa. Using the maximum
+    von Mises stress of 1.177 MPa, the calculated factor of safety
+    is approximately 212.4. This indicates that the crosshead
+    remains well below the material's yield strength under the
+    simulated loading conditions.
+</p>
 
-Second Mesh Test (Jordi Melendez Salgado)
-A second simulation was performed using a refined mesh to evaluate the effect of mesh refinement on the crosshead results.
+    <h3>Second Mesh Test (Jordi Melendez Salgado)</h3>
+<p>
+    I performed a second simulation using a refined mesh to evaluate
+    how the mesh affected the crosshead results.
+</p>
 
-!Second mesh test stress results
+<figure>
+    <img src="images/a10.ss5.png" alt="Second mesh test stress results" width="650">
+    <figcaption>Figure 13: Second test von Mises stress. Maximum stress: 1.409 MPa.</figcaption>
+</figure>
 
-Figure 12: Second mesh test stress results. Maximum stress: 1.409 MPa.
+<figure>
+    <img src="images/a10.ss6.png" alt="Second mesh test displacement results" width="650">
+    <figcaption>Figure 14: Second test displacement. Maximum displacement: 6.653 × 10⁻⁵ m.</figcaption>
+</figure>
 
-!Second mesh test displacement results
+<figure>
+    <img src="images/a10.ss7.png" alt="Second mesh test strain results" width="650">
+    <figcaption>Figure 15: Second test strain. Maximum strain: 5.543 × 10⁻⁶.</figcaption>
+</figure>
 
-Figure 13: Second mesh test displacement results. Maximum displacement: 6.653 × 10⁻⁵ m.
+<p>
+    Using the A36 steel yield strength of 250 MPa, the calculated
+    factor of safety for this test is approximately 177.4.
+</p>
 
-!Second mesh test strain results
+<h3>8. Detailed Crosshead Engineering Drawing (Jordi Melendez Salgado)</h3>
+<p>
+    The following drawing shows the final crosshead design,
+    including its overall dimensions and mounting features.
+</p>
 
-Figure 14: Second mesh test strain results. Maximum strain: 5.543 × 10⁻⁶.
-
-Using the A36 steel yield strength of 250 MPa, the calculated factor of safety for the second simulation was approximately 177.4. Both simulations indicate that the crosshead remains well below the material's yield strength.
-
-Detailed Crosshead Engineering Drawing (Jordi Melendez Salgado)
-!Final crosshead engineering drawing
-
-Figure 15: Final dimensioned crosshead engineering drawing.
-
-## Communicate
-The tensile tester was designed around a maximum tensile load of 2 kN. I first determined the required leadscrew diameter and rotational speed based on the loading conditions, factor of safety, and specified crosshead speed. After selecting the leadscrews, I evaluated the internal threads of the flange nuts to ensure they could safely withstand the applied load. Both leadscrews use identical components to maintain consistency throughout the assembly.
-
-For the crosshead, I performed beam stress and deflection calculations to determine the required dimensions and material. The design was required to maintain a maximum deflection of 0.1 mm. SolidWorks finite element analysis was then used to verify the design. The initial simulation produced a maximum von Mises stress of 1.177 MPa and a factor of safety of approximately 212.4. A second mesh test produced a maximum stress of 1.409 MPa and a factor of safety of approximately 177.4. Both results indicate that the crosshead can safely withstand the applied loading conditions.
-
-The final SolidWorks assembly combines the crosshead, leadscrews, flange nuts, and metric T-slot structural framing. The total cost of the purchased components was $677.80. Throughout this assignment, I gained experience applying mechanical design calculations, selecting commercial components, performing finite element analysis, and developing parametric CAD models. The project required approximately 15 hours of design work, including calculations, component selection, and SolidWorks modeling.
-
+<figure>
+    <img src="images/a10.ss8.png"
+         alt="Final crosshead engineering drawing"
+         width="650">
+    <figcaption>
+        Figure 16: Final dimensioned crosshead engineering drawing.
+    </figcaption>
+</figure>
