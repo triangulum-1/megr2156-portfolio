@@ -13,28 +13,14 @@
     2 kN maximum tensile load and the required factor of safety.
 </p>
 
-<figure>
-    <img src="images/Scanned_20261110-1916-01.jpg"
-         alt="Leadscrew diameter calculations"
-         width="650">
-    <figcaption>
-        Figure 1: Calculations for the minimum required leadscrew diameter.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](Scanned_20261110-1916-01.jpg)
 
 <p>
     Next, I calculated the required rotational speed range to achieve
     the specified crosshead linear speed.
 </p>
 
-<figure>
-    <img src="images/Scanned_20261110-1916-02.jpg"
-         alt="Leadscrew rotational speed calculations"
-         width="650">
-    <figcaption>
-        Figure 2: Calculations for the required leadscrew rotational speed.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](Scanned_20261110-1916-02.jpg)
 
 <p>
     After completing the calculations, I selected the leadscrew
@@ -42,14 +28,7 @@
     conditions. Both leadscrews will use identical components.
 </p>
 
-<figure>
-    <img src="images/Scanned_20261110-1916-03.jpg"
-         alt="Selected leadscrew specifications"
-         width="650">
-    <figcaption>
-        Figure 3: Selected leadscrew and component specifications.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](Scanned_20261110-1916-03.jpg)
 
 <h3>2. Nut and Flange Selection (Liam DiProfio)</h3>
 
@@ -60,32 +39,11 @@
     thread strength and determine a suitable nut and flange.
 </p>
 
-<figure>
-    <img src="images/Scanned_20261110-1916-04.jpg"
-         alt="Nut and flange thread calculations"
-         width="650">
-    <figcaption>
-        Figure 4: Calculations used to verify the nut's internal thread strength.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](Scanned_20261110-1916-04.jpg)
 
-<figure>
-    <img src="images/Screenshot 2026-11-10 191331.png"
-         alt="Selected flange specifications"
-         width="650">
-    <figcaption>
-        Figure 5: Selected flange and its mounting dimensions.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](Screenshot 2026-11-10 191331.jpg)
 
-<figure>
-    <img src="images/Screenshot 2026-11-10 182428.png"
-         alt="Flange mounting bolt specifications"
-         width="650">
-    <figcaption>
-        Figure 6: Selected mounting bolt specifications for the flange assembly.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](Screenshot 2026-11-10 182428.jpg)
 
 <h3>3. Crosshead Design (Jordi Melendez Salgado)</h3>
 
@@ -97,14 +55,7 @@
     the required factor of safety.
 </p>
 
-<figure>
-    <img src="images/IMG_9911.jpeg"
-         alt="Crosshead beam stress calculations"
-         width="650">
-    <figcaption>
-        Figure 7: Crosshead beam stress and strength calculations.
-    </figcaption>
-</figure>
+![Work for Step 2 Part 1](IMG_9911.jpg)
 
 <p>
     I then performed a deflection analysis to verify that the
@@ -113,13 +64,7 @@
     crosshead sketch and its dimensions.
 </p>
 
-<figure>
-    <img src="images/IMG_9912.jpeg"
-         alt="Crosshead deflection calculations and design sketch"
-         width="650">
-    <figcaption>
-        Figure 8: Crosshead deflection calculations and preliminary design sketch.
-    </figcaption>
+![Work for Step 2 Part 1](IMG_9912.jpg)
 
     <h3>4. Tabulating Costs (Jordi Melendez Salgado)</h3>
 
