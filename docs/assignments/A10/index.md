@@ -1,10 +1,10 @@
 A10 – Lead Screw Translating System
-### Objective
+## Objective
 
 Design a lead-screw-driven translating system for a tensile tester that applies up to 2 kN: size the leadscrews, select the nut and flange, design the crosshead, verify it with hand calculations and finite element analysis, and document the parametric assembly, component costs, and a fully dimensioned engineering drawing.
 
-### Analyze
-## Leadscrew Design (Liam DiProfio)
+## Analyze
+### Leadscrew Design (Liam DiProfio)
 
 To begin designing the tensile tester, I performed the necessary calculations to determine the minimum leadscrew diameter and required rotational speed. The calculations account for the 2 kN maximum tensile load and the required factor of safety.
 
@@ -18,7 +18,7 @@ After completing the calculations, I selected the leadscrew specifications based
 
 ![Work for Step 2 Part 1](Scanned_20261110-1916-03.jpg)
 
-## Nut and Flange Selection (Liam DiProfio)
+### Nut and Flange Selection (Liam DiProfio)
 
 After selecting the leadscrews, I analyzed the internal threads of the nut to verify that they could safely support the applied load. The following calculations were used to evaluate the thread strength and determine a suitable nut and flange.
 
@@ -32,7 +32,7 @@ McMaster-Carr listing for the selected Precision Acme lead screw, 98940A625
 
 ![Work for Step 2 Part 1](mcm2.jpg)
 
-## Crosshead Design (Jordi Melendez Salgado)
+### Crosshead Design (Jordi Melendez Salgado)
 
 After selecting the leadscrews and flange assembly, I moved on to designing the crosshead. I performed a beam stress analysis to determine the required dimensions and material needed to safely withstand the applied 2 kN tensile load while maintaining the required factor of safety.
 
@@ -42,7 +42,7 @@ I then performed a deflection analysis to verify that the crosshead would remain
 
 ![Work for Step 2 Part 1](IMG_9912.jpeg)
 
-## Crosshead Finite Element Analysis (Jordi Melendez Salgado)
+### Crosshead Finite Element Analysis (Jordi Melendez Salgado)
 
 I performed an initial SolidWorks simulation to evaluate the crosshead under the applied loading conditions. The following results show the von Mises stress, displacement, and strain throughout the crosshead.
 
@@ -66,7 +66,7 @@ I performed a second simulation using a refined mesh to evaluate how the mesh af
 
 Using the A36 steel yield strength of 250 MPa, the calculated factor of safety for this test is approximately 177.4.
 
-### Decide
+## Decide
 Tabulating Costs (Jordi Melendez Salgado)
 
 The following table summarizes the purchased components required for the tensile tester, including their quantities and costs.
@@ -115,7 +115,7 @@ The following table summarizes the purchased components required for the tensile
     </tbody>
 </table>
 
-### Communicate
+## Communicate
 Parametric Modeling (Jordi Melendez Salgado)
 
 Below is the completed SolidWorks assembly of the tensile tester. The assembly combines the designed crosshead with the selected leadscrews, flange nuts, and structural framing.
