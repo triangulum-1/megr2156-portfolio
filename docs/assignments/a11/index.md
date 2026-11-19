@@ -6,9 +6,9 @@
 #### Motor Spec Sheet
 https://www.midwestmotion.com/products/brgp/12v/26-29rpm/275-400inlb/MMP%20D33-655A-12V%20GP81-100.pdf
 
-### Bracket Design
+### Motor Mount Design
 ![Work for Step 2 Part 1](Scanned_20261118-1811-02.jpg)
-
+![Work for Step 2 Part 1](a11.ss4.png)
 ### Coupler Selection/ Design
 ![Work for Step 2 Part 1](Scanned_20261118-1811-01.jpg)
 #### Jaw Coupling Info Sheet (AL090)
@@ -22,7 +22,7 @@ https://www.lovejoy-inc.com/products/jaw-type-couplings/al-type-aluminum-jaw-cou
 ### Top of Frame FEA
 ![Work for Step 2 Part 1](a11.ss2.png)
 ![Work for Step 2 Part 1](a11.ss3.png)
-![Work for Step 2 Part 1](a11.ss4.png)
+![Work for Step 2 Part 1](a11.ss5.png)
 ![Work for Step 2 Part 1]
 
 
