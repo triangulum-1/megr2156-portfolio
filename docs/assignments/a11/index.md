@@ -23,7 +23,11 @@ https://www.lovejoy-inc.com/products/jaw-type-couplings/al-type-aluminum-jaw-cou
 ![Work for Step 2 Part 1](a11.ss2.png)
 ![Work for Step 2 Part 1](a11.ss3.png)
 ![Work for Step 2 Part 1](blahblah.png)
-![Work for Step 2 Part 1]
+
+### Vertical FEA
+![Work for Step 2 Part 1](a11.ss5.png)
+![Work for Step 2 Part 1](a11.ss6.png)
+![Work for Step 2 Part 1](a11.ss7.png)
 
 
 ### Floating Bearing
