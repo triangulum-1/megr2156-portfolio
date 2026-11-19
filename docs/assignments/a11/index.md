@@ -58,3 +58,7 @@ Lessons Learned
 
 During this project, I learned how to choose a motor that is strong enough to move the machine. I also learned how to connect the motor to the leadscrew using a coupler and make sure the parts can handle the forces applied to them. Another thing I learned was that all parts of the frame need to be strong enough to support the motor and moving components. The floating bearing helped me understand how bearings keep a shaft aligned while still allowing it to rotate smoothly. Overall, this project helped me learn how different parts work together to make a machine function properly. Time spent was 15 hours.
 
+
+### CAD Files
+![Work for Step 2 Part 1](a11.ss8.png)
+
