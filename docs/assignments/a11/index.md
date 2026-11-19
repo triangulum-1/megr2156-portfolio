@@ -14,8 +14,16 @@ https://www.midwestmotion.com/products/brgp/12v/26-29rpm/275-400inlb/MMP%20D33-6
 #### Jaw Coupling Info Sheet (AL090)
 https://www.lovejoy-inc.com/products/jaw-type-couplings/al-type-aluminum-jaw-coupling/
 
+## Part 2
 
+### T-Slot Connectors
+![Work for Step 2 Part 1](IMG_9935.jpeg)
 
+### Top of Frame FEA
+![Work for Step 2 Part 1](a11.ss2.png)
+![Work for Step 2 Part 1](a11.ss3.png)
+![Work for Step 2 Part 1](a11.ss4.png)
+![Work for Step 2 Part 1]
 
 
 ### Floating Bearing
