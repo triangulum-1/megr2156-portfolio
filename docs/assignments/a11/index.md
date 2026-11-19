@@ -1,4 +1,4 @@
-# A11: Motor Selection Design
+# A11 – Motor Design Selection
 
 ## Part 1
 ### Motor Selection
